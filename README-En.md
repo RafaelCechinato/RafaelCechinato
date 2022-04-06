@@ -19,4 +19,4 @@ I also have knowledge with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
           
-Change languages: [English](README-En.md),[Portuguese](README-Pt.md)
+Change language: [English](README-En.md),[Portuguese](README-Pt.md)
