@@ -1,10 +1,12 @@
+Change languages: [English](README-En.md),[Portuguese](README-Pt.md)
+
 ### Hi there, my name is Rafael 👋
 
 I'm an junior full-stack developer, currently working at Domatech.
 
 - 🌱 I’m currently working and learning about ReactJS and NodeJs 
 - 😄 Pronouns: he/him
-- 📫 How to reach me: send me a message to my e-mail [a link](rafa.cechinato@gmail.com)
+- 📫 How to reach me: send me a message to my e-mail: [rafa.cechinato@gmail.com](rafa.cechinato@gmail.com)
 
 I also have knowledge with:
 <br>
