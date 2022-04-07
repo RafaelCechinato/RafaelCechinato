@@ -4,7 +4,7 @@ I'm a junior full-stack developer, currently working at Domatech.
 
 - 🌱 I’m currently working and learning about ReactJS and NodeJs 
 - 😄 Pronouns: he/him
-- 📫 How to reach me: send me a message to my e-mail: [rafa.cechinato@gmail.com](rafa.cechinato@gmail.com)
+- 📫 How to reach me: send me a message to my e-mail: [rafa.cechinato@gmail.com](rafa.cechinato@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/rafael-crespim-do-nascimento-cechinato-a4561715b/?locale=en_US)
 
 I also have knowledge with:
 <br>
