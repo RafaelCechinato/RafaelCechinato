@@ -1,6 +1,6 @@
 ### Hi there, my name is Rafael 👋
 
-I'm an junior full-stack developer, currently working at Domatech.
+I'm a junior full-stack developer, currently working at Domatech.
 
 - 🌱 I’m currently working and learning about ReactJS and NodeJs 
 - 😄 Pronouns: he/him
