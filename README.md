@@ -18,5 +18,10 @@ I also have knowledge with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelcechinato&show_icons=true&theme=buefy&include_all_commits=true&count_private=true%22/%3E" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcechinato&layout=compact&langs_count=6&%22/%3E" >
+</div>
           
 Change language: [Portuguese](README-Pt.md)
