@@ -3,7 +3,7 @@
 Eu sou um desenvolvedor full-stack junior, atualmente trabalhando na Domatech.
 
 - 🌱 Eu estou atualmente trabalhando e aprendendo sobre ReactJS e NodeJs
-- 📫 Como entrar em contato: mande uma mensagem para o meu e-mail [a link](rafa.cechinato@gmail.com)
+- 📫 Como entrar em contato: mande uma mensagem para o meu e-mail [rafa.cechinato@gmail.com](rafa.cechinato@gmail.com) ou me encontre no [LinkedIn](https://www.linkedin.com/in/rafael-crespim-do-nascimento-cechinato-a4561715b/)
 
 Eu também tenho conhecimento com:
 <br>
