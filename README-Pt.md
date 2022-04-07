@@ -1,4 +1,6 @@
-### Olá, meu nome é Rafael 👋
+Alterar idioma: [Inglês](README.md)
+
+<h1 align = "justify"> Olá, meu nome é Rafael 👋 </h1>
 
 Eu sou um desenvolvedor full-stack junior, atualmente trabalhando na Domatech.
 
@@ -18,11 +20,14 @@ Eu também tenho conhecimento com:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
           
-
+<h1 align = "justify"> 📖 GitHub Stats </h1>
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelcechinato&show_icons=true&theme=buefy&include_all_commits=true&count_private=true%22/%3E" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcechinato&layout=compact&langs_count=6&%22/%3E" >
 </div>
 
-Alterar idioma: [Inglês](README.md)
