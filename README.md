@@ -2,7 +2,7 @@ Change language: [Portuguese](README-Pt.md)
 
 <h1 align = "justify">Hi there, my name is Rafael 👋</h1>
 
-I'm a junior full-stack developer, currently working at Domatech.
+I'm a junior full-stack developer, looking for new opportunities to evolve.
 
 - 🌱 I’m currently working and learning about ReactJS and NodeJs 
 - 😄 Pronouns: he/him
